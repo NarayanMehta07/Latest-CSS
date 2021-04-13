@@ -83,6 +83,7 @@ input[type=submit]:hover {
       font-family: 'Courier New', Courier, monospace;
       /* color: white; */
       padding: 20px;
+      overflow: scroll;
   }
 
   h2{
