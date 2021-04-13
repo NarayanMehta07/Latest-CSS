@@ -50,6 +50,7 @@ main{
     justify-content: center;
     align-items: center;
     padding: 10px;
+    height: 60vh;
     /* background-image: linear-gradient(to left,rgb(208, 90, 231),rgb(173, 81, 120)); */
 }
 
